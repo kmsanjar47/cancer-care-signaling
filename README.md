@@ -5,7 +5,7 @@
 Clone the repository to your local environment.
 
 ```sh
-git clone https://github.com/videosdk-live/webrtc.git
+git clone https://github.com/kmsanjar47/cancer-care-signaling.git
 ```
 
 ### Server Setup
